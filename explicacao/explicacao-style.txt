@@ -1,0 +1,32 @@
+Esse código CSS é responsável por estilizar a página web. Ele define várias regras de estilo que controlam a aparência e o layout dos elementos HTML na página. Vou explicar as partes mais importantes do código:
+
+1 - Definição de Variáveis CSS (Variáveis Customizadas): As primeiras linhas definem variáveis CSS que armazenam cores, como --dark, --light, --primary-color, etc. Essas variáveis são usadas mais adiante no código para permitir a reutilização consistente de cores em toda a página.
+
+2 - Estilos Gerais do Documento:
+
+    - body: Define a fonte padrão, a cor do texto, o alinhamento do texto, a margem e o plano de fundo usando gradientes radiais.
+    - .content-wrapper-center: Define o espaçamento interno, a largura máxima e centraliza o conteúdo principal.
+    - .imagem: Define o alinhamento central para imagens.
+    - .hero_title: Remove a margem superior do título principal.
+    - .header-menu: Estiliza o menu de navegação no cabeçalho.
+    - .btn: Estiliza os botões na página.
+    - .footer: Estiliza o rodapé da página.
+    - .logo: Estiliza o logotipo.
+
+3 - Estilos para Componentes Específicos:
+
+    - .brands, .testemunhos, .contato: Estilos comuns para diferentes seções da página.
+    - .testemunho_card: Estilos para os cartões de depoimentos.
+    - .icons li: Estilos para ícones.
+
+4 - Media Queries: Define regras de estilo condicionais para diferentes tamanhos de tela, permitindo uma experiência responsiva:
+
+    - @media screen and (min-width: 48em): A partir de uma largura de tela de 48em (768px), os estilos são ajustados, como o alinhamento do texto, tamanhos de fonte, estilos de menu e layouts de grade.
+    - @media screen and (min-width: 64em): A partir de uma largura de tela de 64em (1024px), os estilos são ajustados novamente, incluindo espaçamento, tamanhos de fonte e layouts de grade.
+
+5 - Estilos de Menu Responsivo:
+
+    - .menu-btn, .menu-icon, .nav-icon: Estilos para criar um ícone de menu responsivo que aparece em tamanhos de tela menores.
+    - .header-menu: Estiliza o menu de navegação responsivo que aparece ao clicar no ícone do menu.
+
+Esses estilos trabalham juntos para criar uma aparência coesa e agradável para a página, garantindo que ela seja responsiva e se adapte a diferentes tamanhos de tela. As classes de estilo são aplicadas aos elementos HTML no código HTML fornecido anteriormente para estilizar a página da maneira que foi definida no arquivo CSS.
