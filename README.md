@@ -1,9 +1,9 @@
-# Projeto Ser Digital
+# Projeto SerDigital
 Este é um repositório no GitHub dedicado ao projeto Ser Digital, uma landing page moderna e atraente desenvolvida para promover o conceito de transformação digital. O objetivo deste projeto é criar uma página de destino que apresente informações sobre os benefícios da transformação digital e como ela pode impactar positivamente os negócios.
 
 ![Captura de Tela (73)](https://github.com/WV-Wesley-Victor/Projeto-SerDigital/assets/137107062/89e22e9a-96d0-4f5d-9aa8-863ebfc1c5b5)
 <p align="center">
-  <a href="https://wv-wesley-victor.github.io/Projeto-My-Components/" target="_blank">Clique aqui para visitar o projeto</a>
+  <a href="https://wv-wesley-victor.github.io/Projeto-SerDigital/" target="_blank">Clique aqui para visitar o projeto</a>
 </p>
 
 ## Descrição 
